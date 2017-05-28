@@ -3,4 +3,6 @@ This is my first git project.
 I changed it!,and I can now useing!
 Add a new readline()!
 add licens
-my fisrt vi write
+fisrt vi write
+这个是我的第二次进入git，请给个面子啊
+

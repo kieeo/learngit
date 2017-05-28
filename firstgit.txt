@@ -2,3 +2,4 @@ Git is free software.
 This is my first git project.
 I changed it!,and I can now useing!
 Add a new readline()!
+add license
